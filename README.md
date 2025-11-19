@@ -62,15 +62,15 @@
 
 ## 🌟 Featured Projects
 
-- 🔗 [**PawMart**](https://github.com/aamamunszone/pawmart-client) – Community-driven platform connecting pet lovers, adopters, and sellers. Users can adopt pets, buy supplies, and interact with a modern, responsive UI/UX.
+- 🔗 [**PawMart**](https://github.com/aamamunszone/pawmart-client) - Community-driven platform connecting pet lovers, adopters, and sellers. Users can adopt pets, buy supplies, and interact with a modern, responsive UI/UX.
 
-- 🔗 [**DealCraft**](https://github.com/aamamunszone/deal-craft-client) – Product management and e-commerce style platform with clean UI, responsive design, and modern React components.
+- 🔗 [**DealCraft**](https://github.com/aamamunszone/deal-craft-client) - Product management and e-commerce style platform with clean UI, responsive design, and modern React components.
 
-- 🔗 [**The Dragon News**](https://github.com/aamamunszone/the-dragon-news) – Dynamic news portal with React and Firebase integration. Fully responsive and interactive across devices.
+- 🔗 [**The Dragon News**](https://github.com/aamamunszone/the-dragon-news) - Dynamic news portal with React and Firebase integration. Fully responsive and interactive across devices.
 
-- 🔗 [**Hero Apps Haven**](https://github.com/aamamunszone/b12a08-hero-apps-haven) – Curated platform to discover secure, high-quality apps. Focused on usability, clean design, and responsive UI.
+- 🔗 [**Hero Apps Haven**](https://github.com/aamamunszone/b12a08-hero-apps-haven) - Curated platform to discover secure, high-quality apps. Focused on usability, clean design, and responsive UI.
 
-- 🔗 [**Select Your XI**](https://github.com/aamamunszone/select-your-xi) – Interactive cricket team selection app with real-time scoring, responsive layout, and engaging user experience.
+- 🔗 [**Select Your XI**](https://github.com/aamamunszone/select-your-xi) - Interactive cricket team selection app with real-time scoring, responsive layout, and engaging user experience.
 
 - 🔨 More exciting projects coming soon...
 
@@ -159,8 +159,8 @@ Here are some of the projects I'm most proud of:
 | ---- | -------------------------------- | --------------- |
 | 2025 | HTML, CSS, Git, Tailwind CSS     | 🟢 Advanced     |
 | 2025 | JavaScript ES6+, React, Firebase | 🟡 Intermediate |
-| 2025 | Node.js, Express, MongoDB, APIs  | 🟡 Learning     |
-| 2025 | TypeScript, Next.js, Redux       | ⚪ Upcoming     |
+| 2025 | Node.js, Express, MongoDB, APIs  | 🟡 Intermediate |
+| 2025 | TypeScript, Next.js, Redux       | 🟡 Learning     |
 | 2026 | GraphQL, Docker, Microservices   | ⚪ Upcoming     |
 
 ---
