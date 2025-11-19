@@ -160,7 +160,7 @@ Here are some of the projects I'm most proud of:
 | 2025 | HTML, CSS, Git, Tailwind CSS     | 🟢 Advanced     |
 | 2025 | JavaScript ES6+, React, Firebase | 🟡 Intermediate |
 | 2025 | Node.js, Express, MongoDB, APIs  | 🟡 Intermediate |
-| 2025 | TypeScript, Next.js, Redux       | 🟡 Learning     |
+| 2025 | TypeScript, Next.js, Redux       | 🔵 Learning     |
 | 2026 | GraphQL, Docker, Microservices   | ⚪ Upcoming     |
 
 ---
