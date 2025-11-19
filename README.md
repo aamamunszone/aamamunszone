@@ -12,19 +12,13 @@
 
 ## 👨‍💻 About Me
 
-- 💻 A passionate **Full-Stack Web Developer (Trainee)** from **Bangladesh**, specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
-
-- 🎯 Strong foundation in **JavaScript**, **React**, **Node.js**, **MongoDB**, and **RESTful API** design with a focus on clean, scalable, and production-ready code.
-
-- 💡 Enthusiastic about building modern web applications using **React**, **Firebase**, **Tailwind CSS**, and exploring backend development with **Express** and **MongoDB**.
-
-- 🧠 Continuously **growing** by solving real-world problems, contributing to open-source, and building full-stack projects.
-
-- 🔍 Actively seeking opportunities to contribute to dynamic development teams and deliver high-quality, maintainable solutions.
-
-- 🧑‍🏫 Ex-teacher turned full-time developer - combining teaching experience with technical skills to create intuitive user experiences.
-
-- 🚀 Committed to writing **semantic code**, following **best practices**, and staying updated with the latest industry trends and technologies.
+- 💻 Passionate **Full-Stack Web Developer (Trainee)** from **Bangladesh**, specializing in the **MERN Stack**.
+- 🎯 Strong foundation in **JavaScript, React, Node.js, MongoDB**, and **RESTful APIs**; focused on clean, scalable, production-ready code.
+- 💡 Enthusiastic about building modern web apps with **React, Firebase, Tailwind CSS**, and exploring backend development.
+- 🧠 Continuously learning through real-world projects and open-source contributions.
+- 🔍 Seeking opportunities to contribute to dynamic teams and deliver maintainable solutions.
+- 🧑‍🏫 Ex-teacher turned developer, combining teaching experience with technical skills for intuitive UX.
+- 🚀 Committed to **semantic code, best practices**, and staying updated with industry trends.
 
 ---
 
@@ -182,7 +176,7 @@ Here are some of the projects I'm most proud of:
   <br /><br />
   <a href="https://dev.to/aamamunszone"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="Dev.to" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@aamamunszone"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/aamamunszone"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://stackoverflow.com/users/28590688/aamamunszone"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
 ---
